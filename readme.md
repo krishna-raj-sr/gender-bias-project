@@ -2,6 +2,12 @@
 
 This repository contains data and code from the Gender project.
 
+## Genbit
+
+If you are looking for genbit score calculation please visit the original repo at
+
+- [📂 Genbit](https://github.com/microsoft/responsible-ai-toolbox-genbit)
+
 ## Files
 
 - [📂 Dataset (ZIP)](https://drive.google.com/file/d/1fbrhwgkjerhlgjehrgliurehg/view?usp=drive_link)
