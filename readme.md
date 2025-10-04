@@ -10,7 +10,7 @@ If you are looking for genbit score calculation please visit the original repo a
 
 ## Files
 
-- [📂 Dataset (ZIP)](https://drive.google.com/file/d/1fbrhwgkjerhlgjehrgliurehg/view?usp=drive_link)
+- [📂 Dataset (ZIP)](https://drive.google.com/file/d/1Z34jJeh7oS4iWcQeYsqt1QN_7cbfitF7/view?usp=sharing)
 
 ## Usage
 
